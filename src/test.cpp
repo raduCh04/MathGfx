@@ -1,4 +1,4 @@
-#include "vector.h"
+#include "vec2.h"
 
 int main(int argc, char const *argv[])
 {
